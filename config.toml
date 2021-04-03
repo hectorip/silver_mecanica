@@ -1,0 +1,87 @@
+baseURL = "http://silvermecanica.com"
+languageCode = "es-mx"
+title = "Silver Mecánica"
+theme = "sicily"
+
+googleAnalytics = ""
+languageName = "Es"
+paginate = "10"
+summaryLength = "15"
+
+[markup.goldmark.renderer]
+unsafe = true
+[[menu.company]]
+URL = "acerca_de"
+name = "Acerca de nosotros"
+
+[[menu.main]]
+URL = "blog"
+name = "Noticias"
+weight = 1
+[[menu.main]]
+URL = "paquetes"
+name = "Paquetes"
+weight = 2
+[[menu.main]]
+URL = "contacto"
+name = "Contacto"
+weight = 3
+[[menu.main]]
+URL = "faq"
+name = "FAQ"
+weight = 4
+[[menu.product]]
+URL = "pricing"
+name = "Pricing"
+[[menu.product]]
+URL = "platform"
+name = "Platform"
+[[menu.product]]
+URL = "faq"
+name = "FAQ"
+[[menu.product]]
+URL = "privacy-policy"
+name = "Privacy Policy"
+[params]
+author = "cristianmarint"
+contact_form_action = "#"
+description = "This is meta description"
+logo = "images/logo.png"
+logo_width = "200px"
+[params.company]
+address = "Tlaxcanes 117,"
+city = "Iztapalapa, CDMX"
+country = "México"
+email = "silvermecanica@gmail.com"
+phone = "55 1536 3116"
+[params.navigation_button]
+enable = true
+label = "Ponte en contacto"
+link = "contacto"
+[[params.plugins.css]]
+link = "plugins/bootstrap/bootstrap.min.css"
+[[params.plugins.css]]
+link = "plugins/themify-icons/themify-icons.css"
+[[params.plugins.css]]
+link = "plugins/slick/slick.css"
+[[params.plugins.css]]
+link = "plugins/custom/clean-footer.css"
+[[params.plugins.js]]
+link = "plugins/jQuery/jquery.min.js"
+[[params.plugins.js]]
+link = "plugins/bootstrap/bootstrap.min.js"
+[[params.plugins.js]]
+link = "plugins/slick/slick.min.js"
+[params.preloader]
+enable = false
+preloader = ""
+[[params.footer]]
+rol_email = "silvermecanica@gmail.com"
+rol_name = "Jefe de Taller"
+rol_representative = "Jesús Uriel Patricio Moreno"
+[[params.social]]
+icon = "ti-facebook"
+link = "https://www.facebook.com/Silver-Mecanica-Premium-289875035040908"
+title = "facebook"
+
+

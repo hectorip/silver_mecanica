@@ -1,0 +1,3 @@
+[submodule "themes/sicily"]
+	path = themes/sicily
+	url = git@github.com:cristianmarint/sicily-hugo-theme.git
