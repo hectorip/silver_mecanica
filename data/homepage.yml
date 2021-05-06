@@ -2,6 +2,8 @@
 banner:
   title : "Servicio Mecánico Automotriz de primer nivel"
   image : "images/motor2.jpeg"
+  description: "Servicio a domicilio, atención multimarca en CDMX, especialistas en diagnóstico."
+  contact: "Ponte en contacto al teléfono 5515363116 (cel) o 5581914078 (fijo)."
   copyright : ""
   button:
     enable : true
@@ -11,7 +13,7 @@ banner:
 ##################### Social ##########################
 description:
   content : "Somos un laboratorio automotriz que ofrece soluciones a precios razonables. Contamos con
-  servicio a domicilio, somos especialistas en diagnóstico, mecánica en general"
+  servicio a domicilio, somos especialistas en diagnóstico, mecánica en general. "
 
 
 

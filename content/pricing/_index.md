@@ -6,10 +6,10 @@ description: "Servicio Automotriz de primer nivel - precios competitivos"
 draft: false
 
 intro:
-  name : "Básico"
-  price: "$1500"
+  name : "Verificación y afinación"
+  price: "$3500"
   price_per : "MXN"
-  info : "Servicio completo exprés"
+  info : "Servicio completo exprés, sin salir de casa"
   services:
   - "Servicio Exprés"
   - "Lavado de motor"
