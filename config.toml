@@ -1,4 +1,4 @@
-baseURL = "http://silvermecanica.com"
+baseURL = "https://silvermecanica.com"
 languageCode = "es-mx"
 title = "Silver Mecánica"
 theme = "sicily"
@@ -10,38 +10,35 @@ summaryLength = "15"
 
 [markup.goldmark.renderer]
 unsafe = true
+
 [[menu.company]]
 URL = "acerca_de"
 name = "Acerca de nosotros"
 
+
 [[menu.main]]
-URL = "blog"
-name = "Noticias"
-weight = 1
-[[menu.main]]
-URL = "paquetes"
+URL = "pricing"
 name = "Paquetes"
-weight = 2
+weight = 1
 [[menu.main]]
 URL = "contacto"
 name = "Contacto"
-weight = 3
+weight = 2
 [[menu.main]]
 URL = "faq"
 name = "FAQ"
-weight = 4
-[[menu.product]]
+weight = 3
+
+[[menu.info]]
 URL = "pricing"
-name = "Pricing"
-[[menu.product]]
-URL = "platform"
-name = "Platform"
-[[menu.product]]
+name = "Paquetes"
+[[menu.info]]
 URL = "faq"
 name = "FAQ"
-[[menu.product]]
+[[menu.info]]
 URL = "privacy-policy"
-name = "Privacy Policy"
+name = "Política de Privacidad"
+
 [params]
 author = "cristianmarint"
 contact_form_action = "#"
@@ -75,10 +72,12 @@ link = "plugins/slick/slick.min.js"
 [params.preloader]
 enable = false
 preloader = ""
+
 [[params.footer]]
 rol_email = "silvermecanica@gmail.com"
 rol_name = "Jefe de Taller"
 rol_representative = "Jesús Uriel Patricio Moreno"
+
 [[params.social]]
 icon = "ti-facebook"
 link = "https://www.facebook.com/Silver-Mecanica-Premium-289875035040908"
