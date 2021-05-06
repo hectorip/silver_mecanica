@@ -2,7 +2,7 @@
 title: "Paquetes"
 subtitle: ""
 # meta description
-description: "Servicio Automotriz de primer nivel - precios"
+description: "Servicio Automotriz de primer nivel - precios competitivos"
 draft: false
 
 intro:
