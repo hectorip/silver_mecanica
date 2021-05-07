@@ -2,6 +2,7 @@ baseURL = "https://silvermecanica.com"
 languageCode = "es-mx"
 title = "Silver Mecánica"
 theme = "sicily"
+bradingTitle = "SM"
 
 googleAnalytics = ""
 languageName = "Es"
