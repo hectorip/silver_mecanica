@@ -2,7 +2,7 @@ baseURL = "https://silvermecanica.com"
 languageCode = "es-mx"
 title = "Silver Mecánica"
 theme = "sicily"
-bradingTitle = "SM"
+brandingTitle = "SM"
 
 googleAnalytics = ""
 languageName = "Es"
@@ -46,6 +46,8 @@ contact_form_action = "#"
 description = "This is meta description"
 logo = "images/logo.png"
 logo_width = "200px"
+brandingTitle = "SM"
+
 [params.company]
 address = "Tlaxcanes 117,"
 city = "Iztapalapa, CDMX"
