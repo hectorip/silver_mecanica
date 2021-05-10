@@ -1,19 +1,20 @@
 ---
-title: "Paquetes"
+title: "Servicios"
 subtitle: ""
 # meta description
 description: "Servicio Automotriz de primer nivel - precios competitivos"
 draft: false
 
 intro:
-  name : "Verificación y afinación"
-  price: "$3500"
+  name : "Verificación y servicio de motor"
+  price: "Desde $3500"
   price_per : "MXN"
   info : "Servicio completo exprés, sin salir de casa"
   services:
   - "Servicio Exprés"
   - "Lavado de motor"
-  - "Afinación y balanceo"
+  - "Servicio de motor y verificación"
+  - "Traslado de auto a domicilio"
   button:
     enable : true
     label : "Contacto"
@@ -27,8 +28,7 @@ enterprise:
   services:
   - "Servicio Exprés"
   - "Auxilio vial"
-  - "Lavado de carrocería"
-  - "Lavado de interiores"
+  - "Mecánica en general"
   - "Reparaciones mayores y menores"
   button:
     enable : true
@@ -36,7 +36,7 @@ enterprise:
     link : "https://wa.me/525515363116?text=Cotización%20de%20servicio%20a%20domicilio"
 
 base:
-  name : "Diagnóstico"
+  name : "Diagnóstico a domicilio"
   price: "$1000"
   price_per : "Precio inicial de diagnóstico especializado"
   info : "Somos expertos en encontrar el problema."
@@ -50,3 +50,14 @@ base:
     link: "https://wa.me/525515363116?text=Cotización%20de%20servicio%20de%20diagnóstico"
 
 ---
+
+Aunque trabajamos con todas las marcas, somos especialistas en las siguientes:
+
+* Mercedes-Benz
+* Audi | VW | Seat | Porsche
+* BMW
+* Chevrolet
+
+
+-----
+Tenemos experiencia resolviendo problemas de todo tipo con estas marcas, por lo que si tienes un problema difícil, no dudes en contactarnos.

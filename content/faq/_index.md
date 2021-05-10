@@ -8,7 +8,7 @@ draft: false
 
 
 {{< faq "¿Cómo se que puedo confiar en ti?" >}}
-Tenemos cientos de clientes satisfechos, puedes verlos en nuestra página de Facebook.
+Tenemos cientos de clientes satisfechos, puedes verlos en nuestra [página de Facebook](https://www.facebook.com/Silver-Mec%C3%A1nica-1116359315234571/reviews/).
 {{</ faq >}}
 
 {{< faq "¿Me puedes ayudar para revisar un carro que voy a comprar?" >}}
@@ -20,5 +20,5 @@ Aceptamos efectivo, transferencias bancarias, tarjetas de crédito y débito.
 {{</ faq >}}
 
 {{< faq "¿Eres buena onda?" >}}
-Por supuesto 😁.
+Por supuesto 😁, nuestros clientes te lo pueden corroborar: [Reseñas de nuestros clientes](https://www.facebook.com/Silver-Mec%C3%A1nica-1116359315234571/reviews/?ref=page_internal)
 {{</ faq >}}

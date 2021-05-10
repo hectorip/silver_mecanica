@@ -4,7 +4,7 @@ title = "Silver Mecánica"
 theme = "sicily"
 brandingTitle = "SM"
 
-googleAnalytics = ""
+googleAnalytics = "G-GNRDHBP7SG"
 languageName = "Es"
 paginate = "10"
 summaryLength = "15"
@@ -81,7 +81,4 @@ rol_email = "silvermecanica@gmail.com"
 rol_name = "Jefe de Taller"
 rol_representative = "Jesús Uriel Patricio Moreno"
 
-[[params.social]]
-icon = "ti-facebook"
-link = "https://www.facebook.com/Silver-Mecanica-Premium-289875035040908"
-title = "facebook"
+

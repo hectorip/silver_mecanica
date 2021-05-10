@@ -5,6 +5,10 @@
     <link>https://silvermecanica.com/faq/</link>
     <description>Recent content in ¿Tienes preguntas? on Silver Mecánica</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>es-mx</language><atom:link href="https://silvermecanica.com/faq/index.xml" rel="self" type="application/rss+xml" />
+    <language>es-mx</language>
+    
+	<atom:link href="https://silvermecanica.com/faq/index.xml" rel="self" type="application/rss+xml" />
+    
+    
   </channel>
 </rss>

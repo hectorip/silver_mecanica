@@ -1,9 +1,9 @@
 ####################### Banner #########################
 banner:
-  title : "Laboratorio Automotriz de primer nivel"
+  title : "Laboratorio Automotriz a domicilio"
   image : "images/motor3.jpeg"
-  description: "Servicio a domicilio, atención multimarca en CDMX, especialistas en diagnóstico."
-  contact: "Ponte en contacto al teléfono [5515363116](https://wa.me/525515363116?text=Cotización%20de%20servicio%20base) (celular y whatsapp) o 5581914078 (fijo)."
+  description: "Auxilio vial 🚗💥 - 24x7 "
+  contact: "Servicio a domicilio, atención multimarca en CDMX, especialistas en diagnóstico. \n\n Ponte en contacto al teléfono [5515363116](https://wa.me/525515363116?text=Cotización%20de%20servicio%20base) (celular y whatsapp) o 5581914078 (fijo)."
   button:
     enable : true
     label : "Servicios"
@@ -11,10 +11,59 @@ banner:
 
 ##################### Social ##########################
 description:
+  title: "Acerca de nosotros"
   content : "Somos un laboratorio automotriz que ofrece soluciones **a precios razonables**. \n\n Contamos con
-  servicio a domicilio, somos especialistas en diagnóstico, mecánica en general. "
+  servicio a domicilio, diagnóstico, mecánica en general y hojalatería y pintura. \n\nSomos especialistas en:\n
+\n* Mercedes-Benz
+\n* Audi | VW | Seat | Porsche
+\n* BMW
+\n* Chevrolet"
 
 
+pricing:
+  intro:
+    name : "Verificación y servicio de motor"
+    price: "Desde $3500"
+    price_per : "MXN"
+    info : "Servicio completo exprés, sin salir de casa"
+    services:
+    - "Servicio Exprés"
+    - "Lavado de motor"
+    - "Servicio de motor y verificación"
+    - "Traslado de auto a domicilio"
+    button:
+      enable : true
+      label : "Contacto"
+      link : "https://wa.me/525515363116?text=Cotización%20de%20servicio%20base"
+
+  enterprise:
+    name : "Servicio a domicilio"
+    price: "$700"
+    price_per : "Desde $700 por revisión"
+    info : "Vamos a donde estás, tu domicilio, oficina o negocio"
+    services:
+    - "Servicio Exprés"
+    - "Auxilio vial"
+    - "Mecánica en general"
+    - "Reparaciones mayores y menores"
+    button:
+      enable : true
+      label : "Contacto"
+      link : "https://wa.me/525515363116?text=Cotización%20de%20servicio%20a%20domicilio"
+
+  base:
+    name : "Diagnóstico a domicilio"
+    price: "$1000"
+    price_per : "Precio inicial de diagnóstico especializado"
+    info : "Somos expertos en encontrar el problema."
+    services:
+    - "Servicio Exprés"
+    - "Todos los modelos y marcas"
+    - "Contacto con especialistas"
+    button:
+      enable : true
+      label : "Contacto"
+      link: "https://wa.me/525515363116?text=Cotización%20de%20servicio%20de%20diagnóstico"
 
 ######################### Service #####################
 service:
