@@ -3,7 +3,7 @@ banner:
   title : "Laboratorio Automotriz de primer nivel"
   image : "images/motor3.jpeg"
   description: "Servicio a domicilio, atención multimarca en CDMX, especialistas en diagnóstico."
-  contact: "Ponte en contacto al teléfono 5515363116 (cel) o 5581914078 (fijo)."
+  contact: "Ponte en contacto al teléfono [5515363116](https://wa.me/525515363116?text=Cotización%20de%20servicio%20base) (celular y whatsapp) o 5581914078 (fijo)."
   button:
     enable : true
     label : "Servicios"
@@ -11,7 +11,7 @@ banner:
 
 ##################### Social ##########################
 description:
-  content : "Somos un laboratorio automotriz que ofrece soluciones a precios razonables. Contamos con
+  content : "Somos un laboratorio automotriz que ofrece soluciones **a precios razonables**. \n\n Contamos con
   servicio a domicilio, somos especialistas en diagnóstico, mecánica en general. "
 
 
