@@ -40,17 +40,10 @@ name = "FAQ"
 URL = "privacy-policy"
 name = "Política de Privacidad"
 
-[params]
-author = "cristianmarint"
-contact_form_action = "#"
-description = "This is meta description"
-logo = "images/logo.png"
-logo_width = "200px"
-brandingTitle = "SM"
 
 [params.company]
-address = "Tlaxcanes 117,"
-city = "Iztapalapa, CDMX"
+address = "Cumbres de Maltrata 486, Niños héroes"
+city = "Benito Juárez, CDMX"
 country = "México"
 email = "silvermecanica@gmail.com"
 phone = "55 1536 3116"
