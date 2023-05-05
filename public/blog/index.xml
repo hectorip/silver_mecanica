@@ -6,11 +6,7 @@
     <description>Recent content in Our stories on Silver Mecánica</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es-mx</language>
-    <lastBuildDate>Sat, 18 Apr 2020 10:07:21 +0600</lastBuildDate>
-    
-	<atom:link href="https://silvermecanica.com/blog/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Sat, 18 Apr 2020 10:07:21 +0600</lastBuildDate><atom:link href="https://silvermecanica.com/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Adversus is a web-based dialer and practical CRM solution</title>
       <link>https://silvermecanica.com/blog/post-1/</link>
@@ -107,7 +103,7 @@
       <pubDate>Sat, 18 Apr 2020 10:07:21 +0600</pubDate>
       
       <guid>https://silvermecanica.com/blog/test-post/</guid>
-      <description>Markdown: Syntax  Overview  Philosophy Inline HTML Automatic Escaping for Special Characters   Block Elements  Paragraphs and Line Breaks Headers Blockquotes Lists Code Blocks Horizontal Rules   Span Elements  Links Emphasis Code Images   Miscellaneous  Backslash Escapes Automatic Links    Note: This document is itself written using Markdown; you can see the source for it by adding &amp;lsquo;.</description>
+      <description>Markdown: Syntax Overview Philosophy Inline HTML Automatic Escaping for Special Characters Block Elements Paragraphs and Line Breaks Headers Blockquotes Lists Code Blocks Horizontal Rules Span Elements Links Emphasis Code Images Miscellaneous Backslash Escapes Automatic Links Note: This document is itself written using Markdown; you can see the source for it by adding &amp;lsquo;.</description>
     </item>
     
     <item>

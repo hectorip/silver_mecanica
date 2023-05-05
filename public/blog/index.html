@@ -8,7 +8,7 @@
   <meta name="description" content="Stories worth reading">
 
   
-  <meta name="generator" content="Hugo 0.68.3" />
+  <meta name="generator" content="Hugo 0.111.3">
 
   <!-- plugins -->
   
@@ -29,13 +29,12 @@
   <link rel="shortcut icon" href="https://silvermecanica.com/images/logo.png" type="image/x-icon">
   <link rel="icon" href="https://silvermecanica.com/images/logo.png" type="image/x-icon">
 
-  
+
   
   <meta property="og:title" content="Our stories" />
 <meta property="og:description" content="Stories worth reading" />
 <meta property="og:type" content="website" />
 <meta property="og:url" content="https://silvermecanica.com/blog/" />
-<meta property="og:updated_time" content="2020-04-18T10:07:21+06:00" />
 
 
   
@@ -49,18 +48,18 @@
     gtag('config', 'G-GNRDHBP7SG');
   </script>
   
-  
+
 
   
   
 <script>
   "use strict";
-  
+
   !function() {
     var t = window.driftt = window.drift = window.driftt || [];
     if (!t.init) {
       if (t.invoked) return void (window.console && console.error && console.error("Drift snippet included twice."));
-      t.invoked = !0, t.methods = [ "identify", "config", "track", "reset", "debug", "show", "ping", "page", "hide", "off", "on" ], 
+      t.invoked = !0, t.methods = [ "identify", "config", "track", "reset", "debug", "show", "ping", "page", "hide", "off", "on" ],
       t.factory = function(e) {
         return function() {
           var n = Array.prototype.slice.call(arguments);
@@ -79,6 +78,24 @@
   drift.SNIPPET_VERSION = '0.3.1';
   drift.load('ntf9mvw3ngse');
   </script>
+  
+
+  
+<script>
+  !function(f,b,e,v,n,t,s)
+  {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+  n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+  if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+  n.queue=[];t=b.createElement(e);t.async=!0;
+  t.src=v;s=b.getElementsByTagName(e)[0];
+  s.parentNode.insertBefore(t,s)}(window, document,'script',
+  'https://connect.facebook.net/en_US/fbevents.js');
+  fbq('init', '777305027384345');
+  fbq('track', 'PageView');
+  </script>
+  <noscript><img height="1" width="1" style="display:none"
+  src="https://www.facebook.com/tr?id=777305027384345&ev=PageView&noscript=1"
+  /></noscript>
   
 </head><body><!-- navigation -->
 
@@ -253,52 +270,26 @@
       
       <div class="col-12">
         
-
-<ul class="pagination">
-    
-    <li class="page-item">
-        <a href="/blog/" class="page-link" aria-label="First"><span aria-hidden="true">&laquo;&laquo;</span></a>
-    </li>
-    
-    <li class="page-item disabled">
-    <a  class="page-link" aria-label="Previous"><span aria-hidden="true">&laquo;</span></a>
-    </li>
-    
-    
-    
-    
-    
-    
-    
-        
-        
-    
-    
-    <li class="page-item active"><a class="page-link" href="/blog/">1</a></li>
-    
-    
-    
-    
-    
-    
-        
-        
-    
-    
-    <li class="page-item"><a class="page-link" href="/blog/page/2/">2</a></li>
-    
-    
-    <li class="page-item">
-    <a href="/blog/page/2/" class="page-link" aria-label="Next"><span aria-hidden="true">&raquo;</span></a>
-    </li>
-    
-    <li class="page-item">
-        <a href="/blog/page/2/" class="page-link" aria-label="Last"><span aria-hidden="true">&raquo;&raquo;</span></a>
-    </li>
-    
-</ul>
-
-
+    <ul class="pagination pagination-default">
+      <li class="page-item disabled">
+        <a aria-disabled="true" aria-label="First" class="page-link" role="button" tabindex="-1"><span aria-hidden="true">&laquo;&laquo;</span></a>
+      </li>
+      <li class="page-item disabled">
+        <a aria-disabled="true" aria-label="Previous" class="page-link" role="button" tabindex="-1"><span aria-hidden="true">&laquo;</span></a>
+      </li>
+      <li class="page-item active">
+        <a aria-current="page" aria-label="Page 1" class="page-link" role="button">1</a>
+      </li>
+      <li class="page-item">
+        <a href="/blog/page/2/" aria-label="Page 2" class="page-link" role="button">2</a>
+      </li>
+      <li class="page-item">
+        <a href="/blog/page/2/" aria-label="Next" class="page-link" role="button"><span aria-hidden="true">&raquo;</span></a>
+      </li>
+      <li class="page-item">
+        <a href="/blog/page/2/" aria-label="Last" class="page-link" role="button"><span aria-hidden="true">&raquo;&raquo;</span></a>
+      </li>
+    </ul>
       </div>
     </div>
   </div>
