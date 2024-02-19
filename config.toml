@@ -46,7 +46,7 @@ address = "Cumbres de Maltrata 486, Niños héroes"
 city = "Benito Juárez, CDMX"
 country = "México"
 email = "silvermecanica@gmail.com"
-phone = "55 1536 3116 / 55 4912 8173"
+phone = "55 7411 2448"
 [params.navigation_button]
 enable = true
 label = "Ponte en contacto"
@@ -73,5 +73,3 @@ preloader = ""
 rol_email = "silvermecanica@gmail.com"
 rol_name = "Jefe de Taller"
 rol_representative = "Jesús Uriel Patricio Moreno"
-
-
