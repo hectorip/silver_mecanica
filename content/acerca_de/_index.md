@@ -15,4 +15,4 @@ Siempre buscamos mantener contento a nuestro cliente y resolver sus problemas de
 
 # Acerca del equipo
 
-Nuestro fundador es un mecánico con experiencia de aproximadamente 12 años y se ha encargado de construir una red de especialistas de diferentes áreas para apoyarse en ellos cuando un problema sea demasiado difícil para una sola persona. Además, contamos con el apoyo directo de maestros e ingeniero automotrices tanto académicos como empíricos con décadas de experiencia. 
+Nuestro fundador es un mecánico con experiencia de aproximadamente 15 años y se ha encargado de construir una red de especialistas de diferentes áreas para apoyarse en ellos cuando un problema sea demasiado difícil para una sola persona. Además, contamos con el apoyo directo de maestros e ingeniero automotrices tanto académicos como empíricos con décadas de experiencia. 

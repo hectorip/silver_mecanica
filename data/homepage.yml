@@ -3,7 +3,7 @@ banner:
   title : "Laboratorio Automotriz a domicilio"
   image : "images/motor3.jpeg"
   description: "Auxilio vial 🚗💥 - 24x7 "
-  contact: "Servicio a domicilio, atención multimarca en CDMX, especialistas en diagnóstico. \n\n Ponte en contacto al teléfono [5515363116](https://wa.me/525515363116?text=Cotización%20de%20servicio%20base) (celular y whatsapp) o 5581914078 (fijo)."
+  contact: "Servicio a domicilio, atención multimarca en CDMX, especialistas en diagnóstico. \n\n Ponte en contacto al teléfono [5574112448](https://wa.me/525574112448?text=Cotización%20de%20servicio%20base) (celular y whatsapp)."
   button:
     enable : true
     label : "Servicios"
@@ -34,7 +34,7 @@ pricing:
     button:
       enable : true
       label : "Contacto"
-      link : "https://wa.me/525515363116?text=Cotización%20de%20servicio%20base"
+      link : "https://wa.me/525574112448?text=Cotización%20de%20servicio%20base"
 
   enterprise:
     name : "Servicio a domicilio"
@@ -49,7 +49,7 @@ pricing:
     button:
       enable : true
       label : "Contacto"
-      link : "https://wa.me/525515363116?text=Cotización%20de%20servicio%20a%20domicilio"
+      link : "https://wa.me/525574112448?text=Cotización%20de%20servicio%20a%20domicilio"
 
   base:
     name : "Diagnóstico a domicilio"
@@ -63,7 +63,7 @@ pricing:
     button:
       enable : true
       label : "Contacto"
-      link: "https://wa.me/525515363116?text=Cotización%20de%20servicio%20de%20diagnóstico"
+link: "https://wa.me/525574112448?text=Cotización%20de%20servicio%20de%20diagnóstico"
 
 ######################### Service #####################
 service:
