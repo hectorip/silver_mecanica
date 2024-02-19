@@ -18,7 +18,7 @@ intro:
   button:
     enable : true
     label : "Contacto"
-    link : "https://wa.me/525515363116?text=Cotización%20de%20servicio%20base"
+    link : "https://wa.me/525574112448?text=Cotización%20de%20servicio%20base"
 
 enterprise:
   name : "Servicio a domicilio"
@@ -33,7 +33,7 @@ enterprise:
   button:
     enable : true
     label : "Contacto"
-    link : "https://wa.me/525515363116?text=Cotización%20de%20servicio%20a%20domicilio"
+    link : "https://wa.me/525574112448?text=Cotización%20de%20servicio%20a%20domicilio"
 
 base:
   name : "Diagnóstico a domicilio"
@@ -47,7 +47,7 @@ base:
   button:
     enable : true
     label : "Contacto"
-    link: "https://wa.me/525515363116?text=Cotización%20de%20servicio%20de%20diagnóstico"
+    link: "https://wa.me/525574112448?text=Cotización%20de%20servicio%20de%20diagnóstico"
 
 ---
 
