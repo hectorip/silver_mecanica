@@ -7,7 +7,7 @@ draft: false
 
 # ¿Qué es Silver Mecánica?
 
-Silver Mecánica nacio como un taller tradcional fundado por Jesús Uriel Patricio Moreno (alias _Silver_), atendiendo a los clientes de la colonia y otros conocidos. Sin embargo, fuimos especializándonos en diagnóstico y servicio a domicilio y ahora nos dedicamos a dar servicio a domiclio y auxilio vial de primera calidad, buscando resolver los problemas más urgentes primero pero llegando al fondo del problema para dar una solución satisfactoria.
+Silver Mecánica nació como un taller tradicional fundado por Jesús Uriel Patricio Moreno (alias _Silver_), atendiendo a los clientes de la colonia y otros conocidos. Sin embargo, fuimos especializándonos en diagnóstico y servicio a domicilio y ahora nos dedicamos a dar servicio a domicilio y auxilio vial de primera calidad, buscando resolver los problemas más urgentes primero pero llegando al fondo del problema para dar una solución satisfactoria.
 
 ## Nuestra filosofía
 
@@ -15,4 +15,4 @@ Siempre buscamos mantener contento a nuestro cliente y resolver sus problemas de
 
 # Acerca del equipo
 
-Nuestro fundador es un mecánico con experiencia de aproximadamente 15 años y se ha encargado de construir una red de especialistas de diferentes áreas para apoyarse en ellos cuando un problema sea demasiado difícil para una sola persona. Además, contamos con el apoyo directo de maestros e ingeniero automotrices tanto académicos como empíricos con décadas de experiencia. 
+Nuestro fundador es un mecánico con experiencia de aproximadamente 15 años y se ha encargado de construir una red de especialistas de diferentes áreas para apoyarse en ellos cuando un problema sea demasiado difícil para una sola persona. Además, contamos con el apoyo directo de maestros e ingeniero automotrices tanto académicos como empíricos con décadas de experiencia.

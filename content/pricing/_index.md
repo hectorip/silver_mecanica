@@ -18,7 +18,7 @@ intro:
   button:
     enable : true
     label : "Contacto"
-    link : "https://wa.me/525574112448?text=Cotización%20de%20servicio%20base"
+    link : "https://wa.me/525564437103?text=Cotización%20de%20servicio%20base"
 
 enterprise:
   name : "Servicio a domicilio"
@@ -33,7 +33,7 @@ enterprise:
   button:
     enable : true
     label : "Contacto"
-    link : "https://wa.me/525574112448?text=Cotización%20de%20servicio%20a%20domicilio"
+    link : "https://wa.me/525564437103?text=Cotización%20de%20servicio%20a%20domicilio"
 
 base:
   name : "Diagnóstico a domicilio"
@@ -47,7 +47,7 @@ base:
   button:
     enable : true
     label : "Contacto"
-    link: "https://wa.me/525574112448?text=Cotización%20de%20servicio%20de%20diagnóstico"
+    link: "https://wa.me/525564437103?text=Cotización%20de%20servicio%20de%20diagnóstico"
 
 ---
 
@@ -57,7 +57,6 @@ Aunque trabajamos con todas las marcas, somos especialistas en las siguientes:
 * Audi | VW | Seat | Porsche
 * BMW
 * Chevrolet
-
 
 -----
 Tenemos experiencia resolviendo problemas de todo tipo con estas marcas, por lo que si tienes un problema difícil, no dudes en contactarnos.
